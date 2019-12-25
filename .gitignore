@@ -20,6 +20,7 @@
 #*.zip
 *.bak
 *.tgz
+*.zip
 
 # Logs and databases #
 ######################
@@ -84,3 +85,6 @@ metastore_db
 
 # spark
 spark-*
+
+# datasets
+datasets
